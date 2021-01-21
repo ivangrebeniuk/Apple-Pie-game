@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     let incorrectMovesAllowed = 7
     var totalWins = 0 {
         didSet {
-            totalPoints += 3
+            totalPoints += 5
             newRound()
         }
     }
