@@ -1,3 +1,3 @@
 # Apple-Pie-game
-Simple iOS Word - guessing game
-Build and run on iPad
+* Simple iOS Word - guessing game
+* Please, build and run the game on iPad
